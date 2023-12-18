@@ -2,6 +2,7 @@ temp
 __pycache__
 results
 tmp
+metrics
 
 cameraready
 generated
